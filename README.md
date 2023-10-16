@@ -15,13 +15,13 @@ Napisano u Laravel 10 frameworku.
 
 Kontrola nad:
 
-?per_page - Broj rezultata po stranici
-?page - Broj stranice 
-?lang - Jezik ( HR - hrvatski, DE - njemački, EN - engleski ). Korišten Laravel Translatable paket [ https://github.com/Astrotomic/laravel-translatable ]
-?category - Pretraga po kategoriji
-?tags - Pretraga po tagu
++ ?per_page - Broj rezultata po stranici
++ ?page - Broj stranice 
++ ?lang - Jezik ( HR - hrvatski, DE - njemački, EN - engleski ). Korišten Laravel Translatable paket [ https://github.com/Astrotomic/laravel-translatable ]
++ ?category - Pretraga po kategoriji
++ ?tags - Pretraga po tagu
 
-+ mogućnost objave novih jela, search bar, template partials itd.
++ Mogućnost objave novih jela, search bar, template partials itd.
 
 ## Frontend
 
